@@ -1,7 +1,5 @@
-import Navbar from "./navbar"
-import Welcome from "./welcome"
+import Dock from "./dock";
+import Navbar from "./navbar";
+import Welcome from "./welcome";
 
-export {
-    Navbar,
-    Welcome,
-}
+export { Navbar, Welcome, Dock };
